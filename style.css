@@ -1,0 +1,175 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap');
+
+html{
+	background-color: #3E4C59 !important;
+}
+
+body {
+	color: #93BBBF !important;
+	font-family: 'Raleway', sans-serif !important;
+	background-color: #3E4C59 !important;
+	font-weight: bold !important;
+	}
+
+.homeBack {
+	background: url("TomatoBackground.jpg") no-repeat top center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+	position: center;
+	font-family: 'Raleway', sans-serif;
+	color: #93BBBF;
+	font-weight: bold;
+	background-color: #3E4C59;
+	padding: 15%;
+}
+
+h1 {
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	font-weight: bold;
+	padding: 20px;
+	color: #93BBBF;
+}
+
+.ht {
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	font-weight: bold;
+	color: #93BBBF;
+	background-color: #3E4C59;
+	margin-bottom: 0px;
+}
+
+h3 {
+	padding: 50px;
+	margin: 0px;
+	padding-bottom: 5px;
+	font-family: 'Raleway', sans-serif;
+	font-weight: bold;
+}
+
+
+
+p {
+	padding: 50px;
+	font-family: 'Raleway', sans-serif;
+	font-weight: bold;
+	color: #93BBBF;
+	margin: 0px;
+}
+
+.bar {
+	color: #93BBBF;
+	font-family: 'Raleway', sans-serif;
+	opacity: 1;
+}
+
+#navbarText {
+	color: #93BBBF;
+	font-family: 'Raleway', sans-serif;
+}
+
+a:link {
+	color: #93BBBF;
+	font-family: 'Raleway', sans-serif;
+}
+a:hover {
+	color: #3E4C59;
+}
+a:visited {
+	color: #93BBBF;
+}
+
+
+
+
+.container{
+	display: flex;
+	flex-direction: column;
+	margin: 0px;
+	background-color: #3E4C59;
+	padding: 0px;
+	padding-bottom: 50px;
+	flex-wrap: wrap;
+	text-align: center;
+	color: #93BBBF;
+	justify-content: center;
+	align-self: stretch;
+	
+}
+.header{
+	background: #055902;
+	border-radius: 5px;
+	padding: 20px;
+	width: 300px;
+	align-self: center;
+
+}
+
+.icon{
+	height: 160px;
+	background: #262A2D;
+	border-radius: 5px;
+	flex-grow: 1;
+	margin: 20px;
+	text-align: center;
+	float: center;
+}
+
+.text{
+	height: 160px;
+	background: #BFA989;
+	border-radius: 5px;
+	flex-grow: 1;
+	margin: 20px;
+	padding: 10px;
+	text-align: left;
+	float: center;
+	width: 100px;
+}
+
+
+.footer{
+	background: #4F637F;
+	border-radius: 5px;
+	height: 50px;
+}
+
+
+.row {
+	margin: 20;
+	padding: 50px 100px 100px 100px;
+	display: flex;
+	flex-wrap: wrap;
+	color: #3E4C59;
+}
+
+.row2 {
+	margin: 20px;
+	padding: 100px;
+	margin-bottom: 10px;
+	padding-top: 30px;
+	padding-bottom: 0px;
+	display: flex;
+	flex-wrap: wrap;
+	color: #3E4C59;
+}
+
+.food {
+	height: 100px;
+	width: 100px;
+}
+
+newLine {
+	padding:0px;
+	margin: 0px;
+	border: 0px;
+}
+
+img {
+	width: 80px;
+	height: 80px;
+	align-self: start;
+}
